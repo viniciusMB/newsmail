@@ -3,7 +3,7 @@
    "host": "localhost",
    "port": 3306,
    "username": "root",
-   "password": "58274169",
+   "password": "*******",
    "database": "newsmail",
    "synchronize": true,
    "logging": false,
